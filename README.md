@@ -5,7 +5,7 @@ Zoo TapTap es una aplicación que busca involucrar a niños con un rango de edad
 ![zooapp-img-00](https://user-images.githubusercontent.com/32286870/37929537-a54e95ea-3116-11e8-9738-bfb3b34928eb.png)
 
 ## Desarrollado para 
-[Zoológico Nacional de Chile](https://marvelapp.com/638g87g/screen/39836666)
+[Zoologico Nacional de Chile](https://marvelapp.com/638g87g/screen/39836666)
 
 ![](/img/zooapp-img-1.png)
 
@@ -49,3 +49,12 @@ Visité el zoológico Nacional de Chile, el día Domingo 11 de Marzo del 2018, p
 
 ![zooapp-img-3png](https://user-images.githubusercontent.com/32286870/37932091-fdc79c7e-311d-11e8-8ef9-2ef3afe605b9.png)
 
+Puntos de conflicto, **conclusiones:**
+- Los niños de entre 5 a 9 años, se pierden de ver a muchos animales, ya sea porque estos se encuentran durmiendo o porque se encuentra a mayor altura que la de su campo de visualización. Esto les frustra y suelen decirle a sus padres: ¿Dónde están los animales?, ¿Pucha oh no veo ningún animal?.  
+- Los niños no andan con celular, pero le suelen pedir el celular a sus padres para sacarle fotografías a los animales.
+- Los animales que más recuerdan los niños son los que pudieron ver más de cerca.
+- Los niños no leen la descripciones de los animales de los tótem, porque no están a su nivel de visión y no es algo divertido de hacer.
+- El zoológico a pesar de ser un panorama enfocado en los niños, no está pensado para que ellos descubran por sí mismos y sean los protagonistas de la actividad.
+
+***
+## Usuario primario - Bastian |
