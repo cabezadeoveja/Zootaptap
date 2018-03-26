@@ -47,4 +47,5 @@ Luego de realizar las entrevistas **se pudo concluir lo siguiente:**
 2. Observación en terreno:
 Visité el zoológico Nacional de Chile, el día Domingo 11 de Marzo del 2018, para observar el comportamiento de los niños en zoológico, realizar entrevistas a niños y sacar fotografías, además de participar del recorrido como una espectadora más y así Investigar los puntos de conflicto (paint points) de niños de 6 a 10 años, en la experiencia de ir al zoológico e identificar puntos de mejora durante su visita, obteniendo de esta manera insights para poder comenzar a conceptualizar e idealizar el proyecto. 
 
-![](/img/zooapp-img-3.png)
+![zooapp-img-3png](https://user-images.githubusercontent.com/32286870/37932091-fdc79c7e-311d-11e8-8ef9-2ef3afe605b9.png)
+
