@@ -63,5 +63,7 @@ Puntos de conflicto, **conclusiones:**
 
 ## User Journey Map |
 Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas cuando van al zoológico y así conseguir oportunidades de mejora.
+![zooapp-img-5](https://user-images.githubusercontent.com/32286870/37934352-4533480a-3124-11e8-84a4-14cbf4fbd5ff.png)
 
-
+## Arquitectura de la información
+Para organizar, etiquetar y diseñar el contenido que tendrá mi aplicación. Esto me permite dar estructura, completar objetivos y dar sentido a la información.
