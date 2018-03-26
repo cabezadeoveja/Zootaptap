@@ -68,3 +68,9 @@ Se realizó un mapa de viaje, para identificar los puntos críticos de los usuar
 ## Arquitectura de la información
 Se realizo una arquitectura de la organización, para organizar, etiquetar y diseñar el contenido que tendrá la aplicación Zoo TapTap. Esto me permite dar estructura, completar objetivos y dar sentido a la información.
 ![zooapp-img-6](https://user-images.githubusercontent.com/32286870/37934776-b7c19470-3125-11e8-91a5-6271a986b2ff.png)
+
+***
+
+## User flow y Testing 
+Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios para realizar diferentes tareas dentro de la aplicación. Luego se testearon los wireframes y se anotaron las observaciones con post-it.  
+
