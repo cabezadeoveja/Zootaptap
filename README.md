@@ -57,4 +57,11 @@ Puntos de conflicto, **conclusiones:**
 - El zoológico a pesar de ser un panorama enfocado en los niños, no está pensado para que ellos descubran por sí mismos y sean los protagonistas de la actividad.
 
 ***
+
 ## Usuario primario - Bastian |
+![zooapp-img-4](https://user-images.githubusercontent.com/32286870/37933475-b7ae45d6-3121-11e8-83b8-513bde04daf9.png)
+
+## User Journey Map |
+Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas cuando van al zoológico y así conseguir oportunidades de mejora.
+
+
