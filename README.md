@@ -4,6 +4,9 @@ Zoo TapTap es una aplicación que busca involucrar a niños con un rango de edad
 
 ![zooapp-img-00](https://user-images.githubusercontent.com/32286870/37929537-a54e95ea-3116-11e8-9738-bfb3b34928eb.png)
 
+## Desarrollado para 
+[Zoológico Nacional de Chile](https://marvelapp.com/638g87g/screen/39836666)
+
 ![](/img/zooapp-img-1.png)
 
 
