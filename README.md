@@ -28,7 +28,7 @@ Los niños necesitan involucrarse de manera interactiva con los animales del zoo
 - Qué pasaría si los niños obtuviera recompensas o un feedback positivo después de cada desafío respondido correctamente.
 - Qué pasaría si usamos un mapa GPS para mostrar dónde están los niños y dónde está el animal que buscan.
 
-![](/img/zooapp-img-2.png)
+![zooapp-img-2](https://user-images.githubusercontent.com/32286870/37931982-acfed118-311d-11e8-8697-a70c6a4009c4.png)
 
 ***
 
