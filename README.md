@@ -81,5 +81,8 @@ Se utilizó user flow para determinar el trayecto que realizarán los diferentes
 
 ![zoo-wireframes2](https://user-images.githubusercontent.com/32286870/38185009-29fd84ee-3622-11e8-93f9-3f1a6552a693.jpg)
 
-## Prototipos de alta fidelidad
+## Prototipo de alta fidelidad
 Las observaciones hechas en el testing fueron corregidas, para así mejorar la experiencia del usuario al momento de ocupar la aplicación. Este nuevo prototipo fue hecho con la herramienta Marvelapp.
+
+![zooapp](https://user-images.githubusercontent.com/32286870/38185944-d42d7eb6-3626-11e8-93ef-455a0bd5baf3.jpg)
+
