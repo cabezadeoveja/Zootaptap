@@ -74,3 +74,6 @@ Se realizo una arquitectura de la organización, para organizar, etiquetar y dis
 ## User flow y Testing 
 Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios para realizar diferentes tareas dentro de la aplicación. Luego se testearon los wireframes y se anotaron las observaciones con post-it.  
 
+![zoo-wireframes](https://user-images.githubusercontent.com/32286870/38184848-e796b2ac-3620-11e8-8fe1-b2b3b7b2e144.jpg)
+
+![zoo-wireframes2](https://user-images.githubusercontent.com/32286870/38184862-ff884fd8-3620-11e8-82d3-a441b0b61f90.jpg)
