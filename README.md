@@ -72,9 +72,14 @@ Se realizo una arquitectura de la organización, para organizar, etiquetar y dis
 ***
 
 ## User flow y Testing 
-Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios para realizar diferentes tareas dentro de la aplicación. Luego se testearon los wireframes y se anotaron las observaciones con post-it.  
-
+Se utilizó user flow para determinar el trayecto que realizarán los diferentes usuarios para realizar diferentes tareas dentro de la aplicación. Luego se testearon los wireframes y se anotaron las observaciones con post-it. Las primeras pruebas de usabilidad se realizaron en prototipos de papel. Las tareas que debian hacer los usuarios eran: 
+- Hacer doble tap sobre pingui y aceptar la misión.
+- Sacar fotografía y descubrir el secreto sobre el animal fotografiado.
+- Aceptar desafío, responder preguntas y obtener medalla.
 
 ![zoo-wireframes](https://user-images.githubusercontent.com/32286870/38185007-29de82d8-3622-11e8-9831-c9fc3f2cf8c7.jpg)
 
 ![zoo-wireframes2](https://user-images.githubusercontent.com/32286870/38185009-29fd84ee-3622-11e8-93f9-3f1a6552a693.jpg)
+
+## Prototipos de alta fidelidad
+Las observaciones hechas en el testing fueron corregidas, para así mejorar la experiencia del usuario al momento de ocupar la aplicación. Este nuevo prototipo fue hecho con la herramienta Marvelapp.
